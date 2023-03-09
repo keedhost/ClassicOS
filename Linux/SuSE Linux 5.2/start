@@ -1,0 +1,20 @@
+#!/bin/bash
+
+image="disk-image.img"
+arch="disk-image.img.zip"
+qemu="qemu-system-i386"
+
+[[ -f "$arch" ]] || { echo "File $arch not found. Exiting"; exit 2; }
+
+[[ -f $(which $qemu) ]] || { echo "$qemu not found in your system. Please install it first"; exit 3; }
+
+
+echo "Unpacking $arch ==> $image"
+zip -FF $arch --out tmp.zip
+unzip tmp.zip && rm -v tmp.zip
+
+echo "Starting QEMU"
+$qemu -hda $image -m 32
+
+echo "Removing $image..."
+rm -v $image && echo "Removed"

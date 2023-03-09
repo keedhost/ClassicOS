@@ -1,0 +1,19 @@
+#!/bin/bash
+
+image="disk-image.img"
+arch="disk-image.img.bz2"
+qemu="qemu-system-i386"
+
+[[ -f "$arch" ]] || { echo "File $arch not found. Exiting"; exit 2; }
+
+[[ -f $(which $qemu) ]] || { echo "$qemu not found in your system. Please install it first"; exit 3; }
+
+
+echo "Unpacking $arch ==> $image"
+bzip2 --decompress --keep --verbose $arch && echo "Unpacked"
+
+echo "Starting QEMU"
+$qemu -fda floppy_1.img -fdb floppy_2.img -hda $image -m 32 -boot c
+
+echo "Removing $image..."
+rm -v $image && echo "Removed"

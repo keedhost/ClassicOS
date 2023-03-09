@@ -1,0 +1,13 @@
+#!/bin/bash
+
+image="disk-image.img"
+qemu="qemu-system-i386"
+
+[[ -f "$image" ]] || { echo "File $image not found. Exiting"; exit 2; }
+
+[[ -f $(which $qemu) ]] || { echo "$qemu not found in your system. Please install it first"; exit 3; }
+
+
+echo "Starting QEMU"
+$qemu -hda $image -m 32
+

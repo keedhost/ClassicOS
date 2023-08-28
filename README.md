@@ -58,6 +58,30 @@ cd "UNIX/SCO UNIX SVR3.2 v4.2"
 If all previous steps are successful, you should get a new window with the operation system you started:
 ![SCO UNIX](https://github.com/keedhost/ClassicOS/blob/main/UNIX/SCO%20UNIX%20SVR3.2%20v4.2/Screenshots/sco01.png?raw=true)
 
+## OS Catalog
+
+- [Linux](https://github.com/keedhost/ClassicOS/tree/main/Linux)
+    - [BOGUS Linux 1.0](https://github.com/keedhost/ClassicOS/tree/main/Linux/BOGUS%20Linux%201.0)
+    - [Debian Linux 0.9](https://github.com/keedhost/ClassicOS/tree/main/Linux/Debian%20Linux%200.9)
+    - [Jurix Linux 4.2](https://github.com/keedhost/ClassicOS/tree/main/Linux/Jurix%20Linux%204.2)
+    - [MCC Interim Linux 1.0](https://github.com/keedhost/ClassicOS/tree/main/Linux/MCC%20Interim%20Linux%201.0)
+    - [Red Hat Linux 1.1](https://github.com/keedhost/ClassicOS/tree/main/Linux/Red%20Hat%20Linux%201.1)
+    - [Slackware Linux 1.1.2](https://github.com/keedhost/ClassicOS/tree/main/Linux/Slackware%20Linux%201.1.2)
+    - [Softlanding Linux System 1.0.5](https://github.com/keedhost/ClassicOS/tree/main/Linux/Softlanding%20Linux%20System%201.0.5)
+    - [SuSE Linux 5.2](https://github.com/keedhost/ClassicOS/tree/main/Linux/SuSE%20Linux%205.2)
+    - [TAMU Linux 1.0](https://github.com/keedhost/ClassicOS/tree/main/Linux/TAMU%20Linux%201.0)
+    - [Xdenu Linux 2.0](https://github.com/keedhost/ClassicOS/tree/main/Linux/Xdenu%20Linux%202.0)
+    - [Yggdrasil Linux 0.9.8](https://github.com/keedhost/ClassicOS/tree/main/Linux/Yggdrasil%20Linux%200.9.8)
+- [UNIX](https://github.com/keedhost/ClassicOS/tree/main/UNIX)
+    - [AT&T UNIX SVR4.0 v2.1](https://github.com/keedhost/ClassicOS/tree/main/UNIX/AT%26T%20UNIX%20SVR4.0%20v2.1)
+    - [Dell UNIX SVR4.0 Issue 2.2](https://github.com/keedhost/ClassicOS/tree/main/UNIX/Dell%20UNIX%20SVR4.0%20Issue%202.2)
+    - [MINIX-vmd 1.7.0](https://github.com/keedhost/ClassicOS/tree/main/UNIX/MINIX-vmd%201.7.0)
+    - [SCO UNIX SVR3.2 v4.2](https://github.com/keedhost/ClassicOS/tree/main/UNIX/SCO%20UNIX%20SVR3.2%20v4.2)
+    - [SCO Xenix 2.3.4](https://github.com/keedhost/ClassicOS/tree/main/UNIX/SCO%20Xenix%202.3.4)
+- [OS/2](https://github.com/keedhost/ClassicOS/tree/main/OS2)
+    - [IBM OS/2 1.1](https://github.com/keedhost/ClassicOS/tree/main/OS2/IBM%20OS%3A2%201.1)
+    - [IBM OS/2 1.3](https://github.com/keedhost/ClassicOS/tree/main/OS2/IBM%20OS%3A2%201.3)
+
 ## FAQ
 
 _Q: What credentials I should enter for OS?_

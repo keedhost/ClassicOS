@@ -10,7 +10,9 @@
 
 #### УКР
 
-Дистрибутив ОС MINIX з підтримкою X-сервера і віртуальної пам'яті. Містить програми, вихідні коди, багато місця на диску. Реліз 1996 року. Для завантаження системи в бутлоадері натисни `=`
+Дистрибутив ОС MINIX з підтримкою X-сервера і віртуальної пам'яті. Містить програми, вихідні коди, багато місця на диску. Реліз 1996 року. Для завантаження системи в бутлоадері натисни `=`.
+
+Для запуску графіки, виконай в консолі `startx`, і вже у вікні терміналу виконай команду `twm`.
 
 **MINIX** (від mini-Unix) - це Unix-подібна операційна система, заснована на архітектурі мікроядра. Починаючи з версії 2.0, вона сумісна з інтерфейсом Portable Operating System Interface (POSIX).
 
@@ -32,7 +34,9 @@ Minix-vmd працює на IA-32 та сумісних мікропроцесо
 
 #### ENG
 
-**MINIX** distribution with support for X-server and virtual memory. Contains programs, source code, and a lot of disk space. Released in 1996. To boot the system in a bootloader, press `=`
+**MINIX** distribution with support for X-server and virtual memory. Contains programs, source code, and a lot of disk space. Released in 1996. To boot the system in a bootloader, press `=`.
+
+To start GUI, run `startx` in the console, and in the terminal window, run the command `twm`.
 
 MINIX (from mini-Unix) is a Unix-like operating system based on a microkernel architecture. Since version 2.0, it has been Portable Operating System Interface (POSIX) compliant.
 

@@ -13,7 +13,7 @@ echo "Unpacking $arch ==> $image"
 bzip2 --decompress --keep --verbose $arch && echo "Unpacked"
 
 echo "Starting QEMU"
-$qemu -hda $image -m 32
+$qemu -chardev msmouse,id=msmouse -device isa-serial,chardev=msmouse -hda $image -m 32
 
 echo "Removing $image..."
 rm -v $image && echo "Removed"

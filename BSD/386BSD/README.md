@@ -12,15 +12,17 @@
 Завантажується та виконує основні команди. Дуже глючна та вилітає з багатьма командами, наприклад `dmesg`.
 
 Інсталяційний ISO-файл можна завантажити з [archive.org](https://archive.org/details/386BSD1.0)
+
 Вихідний код знаходиться на [GitHub](https://github.com/386BSD/386bsd/tree/1.0)
 
 ---
 
 #### ENG:
 386BSD was the first UNIX ported to the Intel 386 CPU. In this catalog provided 386BSD ver. 1.0. Previous versions are: 0.0 and 0.1. 
-Boots and runs basic commmands. Very buggy and crashes with many commands,like `dmesg`.
+Boots and runs basic commands. Very buggy and crashes with many commands,like `dmesg`.
 
-Installation ISO file may be download from [archive.org](https://archive.org/details/386BSD1.0)
+Installation ISO file may be downloaded from [archive.org](https://archive.org/details/386BSD1.0)
+
 Source code located on [GitHub](https://github.com/386BSD/386bsd/tree/1.0)
 
 ---

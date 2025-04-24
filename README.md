@@ -79,8 +79,8 @@ If all previous steps are successful, you should get a new window with the opera
     - [SCO UNIX SVR3.2 v4.2](https://github.com/keedhost/ClassicOS/tree/main/UNIX/SCO%20UNIX%20SVR3.2%20v4.2)
     - [SCO Xenix 2.3.4](https://github.com/keedhost/ClassicOS/tree/main/UNIX/SCO%20Xenix%202.3.4)
 - [OS/2](https://github.com/keedhost/ClassicOS/tree/main/OS2)
-    - [IBM OS/2 1.1](https://github.com/keedhost/ClassicOS/tree/main/OS2/IBM%20OS%3A2%201.1)
-    - [IBM OS/2 1.3](https://github.com/keedhost/ClassicOS/tree/main/OS2/IBM%20OS%3A2%201.3)
+    - [IBM OS/2 1.1](https://github.com/keedhost/ClassicOS/tree/main/OS2/IBM%20OS_2%201.1)
+    - [IBM OS/2 1.3](https://github.com/keedhost/ClassicOS/tree/main/OS2/IBM%20OS_2%201.3)
 
 ## FAQ
 

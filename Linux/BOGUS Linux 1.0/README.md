@@ -1,5 +1,5 @@
-![](https://github.com/keedhost/ClassicOS/blob/main/Linux/BOGUS%20Linux%201.0/LINUX1990_x06y1.png?raw=true)
-![](https://github.com/keedhost/ClassicOS/blob/main/Linux/BOGUS%20Linux%201.0/LINUX1990_x06y2.png?raw=true)
+![](https://github.com/keedhost/ClassicOS/blob/main/Linux/BOGUS%20Linux%201.0/Screenshots/BOGUS_Linux_02.png?raw=true)
+![](https://github.com/keedhost/ClassicOS/blob/main/Linux/BOGUS%20Linux%201.0/Screenshots/BOGUS_Linux_03.png?raw=true)
 #### Дані для входу / Credentials:
 **Login**: `root`
 
